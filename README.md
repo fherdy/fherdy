@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ferdinand
+- 👋 Hello, I’m Ferdinand
 - 👀 I’m interested in learning new tools and frameworks and creating cool stuff with them.
 - 🌱 I’m currently learning Python for web development.
 - 📫 You can reach me at ferdinand.tettey@gmail.com
