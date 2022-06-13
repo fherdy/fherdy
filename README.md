@@ -1,6 +1,6 @@
-- 👋 Hello, I’m Ferdinand
+- 👋 Hello, I’m Ferdinand.
 - 👀 I’m interested in learning new tools and frameworks and creating cool and interesting apps with them.
-- 🌱 I’m currently learning Python for web development. #100 Days of Code
+- 🌱 I’m currently learning Python for web development. #100 Days of Code.
 - 📫 You can reach me at ferdinand.tettey@gmail.com
 - 👨🏾‍💻 Checkout my virtual ID - https://ftettey-id.herokuapp.com/
 - 😄 Happy to connect!
