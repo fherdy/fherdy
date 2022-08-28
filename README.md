@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python for web development. #100 Days of Code.
 - 📫 You can reach me at ferdinand.tettey@gmail.com
 - 👨🏾‍💻 Checkout my virtual ID - https://ftettey-id.herokuapp.com/
-- 😄 Happy to connect!sacs
+- 😄 Happy to connect!
 
 <!---
 fherdy/fherdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
