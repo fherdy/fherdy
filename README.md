@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Ferdinand.
+- 👋 Hello, I’m Ferdinand Tettey.
 - 👀 I’m interested in learning new tools, frameworks, and technologies and creating cool and interesting applications with them.
 - 🌱 I’m currently learning Python for web development. #100 Days of Code.
 - 📫 You can email me at ferdinand.tettey@gmail.com
