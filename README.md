@@ -4,7 +4,7 @@
 - 📫 You can email me at ferdinand.tettey@gmail.com
 - 👨🏾‍ LinkedIn - https://www.linkedin.com/in/ferdinand-tettey/
 - 👨🏾‍💻 Checkout my virtual ID - https://ftettey-id.herokuapp.com/
-- 😄 Lets connect!
+- 😄 Lets connect!!
 <!---
 fherdy/fherdy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
