@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Ferdinand Tettey.
 - 👀 I’m interested in learning new tools, frameworks, and technologies and creating cool and interesting applications with them.
-- 🌱 I’m currently learning Python for web development. #100 Days of Code.
+- 🌱 I’m currently building https://www.creatorbrandhub.com
 - 📫 You can email me at ferdinand.tettey@gmail.com
 - 👨🏾‍ LinkedIn - https://www.linkedin.com/in/ferdinand-tettey/
 - 👨🏾‍💻 Checkout my virtual ID - https://ftettey-id.herokuapp.com/
